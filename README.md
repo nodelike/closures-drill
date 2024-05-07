@@ -1,6 +1,6 @@
 # Solution to closures JS drill
 
-Problem: [Link to the problem set](https://gist.github.com/nodelike/9d72aaf7bc2f9307aa2581bb8225b4a3)
+Problem: [Link to the problem set](https://gist.github.com/nodelike/e90c001c925183c8b136a8fd8b421426)
 
 This repo contains the solution of `closures` Drill of Mountblue JS Bootcamp.
 
