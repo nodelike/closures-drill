@@ -1,19 +1,19 @@
 function counterFactory() {
-    var x = 1;
+    var count = 1;
 
     return {
         increment(){
             try {
-                x++;
-                return x;
+                count++;
+                return count;
             } catch (error) {
                 console.log(`Error in counterFactory increment: ${error}`)
             }
         },
         decrement(){
             try {
-                x--;
-                return x;
+                count--;
+                return count;
             } catch (error) {
                 console.log(`Error in counterFactory decrement: ${error}`)
             }
@@ -21,4 +21,4 @@ function counterFactory() {
     }
 }
 
-module.exports = counterFactory;
+module.ecountports = counterFactory;
